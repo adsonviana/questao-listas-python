@@ -1,4 +1,5 @@
 # O Osmar vai para...
+Link para a questão no Dikastis: https://dikastis.com.br/problems/01JSCWESWF2SK3HF76Q0M5E89B 
 ## PROBLEM STATEMENT
 Após uma série de descontentamentos com premiações internacionais, o Brasil decidiu criar uma cerimônia própria para prestigiar e celebrar as produções e as personalidades do país, e nomearam essa cerimônia de Osmar!  
 
